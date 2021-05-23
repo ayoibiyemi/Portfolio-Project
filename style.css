@@ -45,10 +45,14 @@
   justify-content: center;
   background-color: darkcyan;
   align-content: center;
+  
 }
-.copyright p{
+.copyright {
   color: white;
+  
 }
+
+
 /* animation  */
 .pulsate-bck {
 	-webkit-animation: pulsate-bck 0.5s ease-in-out infinite both;
